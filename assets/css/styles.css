@@ -93,13 +93,14 @@ body {
 h1{
   margin-top: 0px;
   font-size: 80px;
+  font-weight: bold;
   text-align: center;
-  font-weight: 900;
-  color:black;
+  color:var(--first-color);
 }
 p{
  font-weight: 700;
-  color: black;
+  color: var(--first-color);
+  font-weight: bold;
   text-align: center;
 }
 
